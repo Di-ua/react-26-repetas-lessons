@@ -1,12 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
+import styles from "./Panel.module.css";
 
-const styles = {
-  outline: "1px solid tomato",
-};
+console.log(styles);
+
 
 const Panel = ({ title, children }) => (
-  <div style={styles}>
+  <div className={styles.container}>
     {title && <h2>{title}</h2>}
 
     {children}
@@ -14,7 +14,7 @@ const Panel = ({ title, children }) => (
 );
 
 Panel.defaultProps = {
-  title: "",
+  title: '',
   children: [],
 };
 
