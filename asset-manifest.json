@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-26-repetas-lessons/static/css/main.12524646.chunk.css",
+    "main.js": "/react-26-repetas-lessons/static/js/main.bcde6eda.chunk.js",
+    "main.js.map": "/react-26-repetas-lessons/static/js/main.bcde6eda.chunk.js.map",
+    "runtime-main.js": "/react-26-repetas-lessons/static/js/runtime-main.80976616.js",
+    "runtime-main.js.map": "/react-26-repetas-lessons/static/js/runtime-main.80976616.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/react-26-repetas-lessons/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.f678100d.chunk.js": "/react-26-repetas-lessons/static/js/2.f678100d.chunk.js",
+    "static/js/2.f678100d.chunk.js.map": "/react-26-repetas-lessons/static/js/2.f678100d.chunk.js.map",
+    "index.html": "/react-26-repetas-lessons/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/react-26-repetas-lessons/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.12524646.chunk.css.map": "/react-26-repetas-lessons/static/css/main.12524646.chunk.css.map",
+    "static/js/2.f678100d.chunk.js.LICENSE.txt": "/react-26-repetas-lessons/static/js/2.f678100d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80976616.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.f678100d.chunk.js",
+    "static/css/main.12524646.chunk.css",
+    "static/js/main.bcde6eda.chunk.js"
+  ]
+}
